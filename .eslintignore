@@ -1,0 +1,8 @@
+# 忽略特定文件
+node_modules
+/build/
+/docs/
+/dist/
+
+# 忽略icon
+/src
